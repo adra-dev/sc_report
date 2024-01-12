@@ -13,7 +13,6 @@
 
 import streamlit as st
 import pandas as pd
-import plotly as plt
 
 from sklearn.preprocessing import StandardScaler
 from sklearn.model_selection import train_test_split
