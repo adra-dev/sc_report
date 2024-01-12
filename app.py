@@ -67,7 +67,7 @@ st.markdown(
     """
 )
 
-st.image('img\Query.jpeg', caption='Query from Cassjojob')
+st.image('sc_report/img/Query.jpeg', caption='Query from Cassjojob')
 
 # Load data
 dr14 = pd.read_csv('input\Skyserver_adradev_DR14.csv')
