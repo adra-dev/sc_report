@@ -63,11 +63,11 @@ st.markdown(
     I couldn't create a connection between the ipynb and the SDSS 
     RestApi to retrevie the data becasue is not available any more, 
     what I can do to gather the data is to consult the Cassjob 
-    online data base and download it in csv, you can find it in 
-    input data.
+    online data base and download it in csv.
     """
 )
 
+st.image('img/Query.jpeg', caption='Query from Cassjojob')
 
 # Load data
 dr14 = pd.read_csv('input/Skyserver_adradev_DR14.csv')
