@@ -116,7 +116,7 @@ st.markdown(
     To select the data, I will perform a PCA to determine which
     columns are unnecessary.
     >**Note:** you cand find out the full proces in the notebook:
-    (https://github.com/adra-dev/star_clasifier/blob/main/star_clasifier/star_classifier.ipynb)
+    (https://github.com/adra-dev/star_clasifier)
     """
 )
 
